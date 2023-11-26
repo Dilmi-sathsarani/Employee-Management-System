@@ -1,0 +1,27 @@
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\bin\Debug\Employee Mananagement System.exe.config
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\bin\Debug\Employee Mananagement System.exe
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\bin\Debug\Employee Mananagement System.pdb
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\bin\Debug\Guna.UI.dll
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee Mananagement System.csproj.AssemblyReference.cache
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.Properties.Resources.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee Mananagement System.csproj.GenerateResource.cache
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee Mananagement System.csproj.CoreCompileInputs.cache
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee Mananagement System.csproj.CopyComplete
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee Mananagement System.exe
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee Mananagement System.pdb
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.AdminPanel.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.Login.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.HR_Panel.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.AddDepartment.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.ViewDepartment.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.UpdateDepartment.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.Add_Designation.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.View_Designation.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.Update_Designation.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.Add_Employee.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.View_Employee.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.Update_Employee.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.HR_Assistant.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.View_Employee_1.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.View_Department1.resources
+C:\Users\Farzan\Desktop\Employee Mananagement System\Employee Mananagement System\obj\Debug\Employee_Mananagement_System.View_Designation1.resources
